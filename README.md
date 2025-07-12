@@ -7,8 +7,6 @@ PCB is half size of original ZX Spectrum, can be fit in 48K or 48K+ case.
 - 128K RAM
 - AY-3-8910 Sound Chip
 - Composite and RGB PAL output
-- Has Keyboard on board (Issue 2B)
-- PCB version 5
 - 2xAY-3-8910 Turbo Sound
 - PlusD Floppy Disk Interface on Board
 - SAA1099Sound Chip
